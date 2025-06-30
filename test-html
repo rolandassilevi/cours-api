@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Cours API</title>
+</head>
+<body style="font-family: sans-serif; max-width: 800px; margin: auto; padding: 20px;">
+  <h1>👨‍🏫 Cours API</h1>
+  <p>Bienvenue au Cours API</p>
+
+  <h2>📚 Contenu</h2>
+  <ul>
+    <li><a href="cours-api/">Architecture API</a></li>
+    <li><a href="cours-api/">Base de données</a></li>
+    <li><a href="cours-api/">Tables et Modèles</a></li>
+  </ul>
+
+  <hr>
+  <footer>
+    <p>© 2025 – Roland Assilevi | Contact : <a href="https://linkedin.com/in/rolandassilevi">Mon Linkedin</a></p>
+  </footer>
+</body>
+</html>
